@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* フッター
+------------------------------- */
+footer{
+    background: rgba(201, 223, 139, 0.955);
+    text-align: center;
+    padding: 26px 0;
+}
